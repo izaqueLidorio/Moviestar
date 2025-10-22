@@ -7,10 +7,11 @@ Este é um projeto web completo inspirado em plataformas como IMDb, desenvolvido
 - Comentários e avaliação de filmes pelos usuários
 - Cálculo automático da nota média de cada filme
 - Integração com banco de dados usando o padrão DAO (Data Access Object)
-- Dashboard administrativo com:
+- 
+  **[Em breve]** - Dashboard administrativo com:
   - Visualização de todos os usuários e seus filmes
   - Remoção dos filmes desses usuarios
-  - **[Em breve]** Sistema de banimento ou penalização de usuários
+  -  Sistema de banimento ou penalização de usuários
 
 ## 💡 Tecnologias utilizadas
 - PHP
